@@ -1,5 +1,5 @@
 # Tourism-Experience-Analytics
-Tourism Recommender Project — Clear Explanation
+Tourism Recommender Project 
 Project Goal:
 
 *Predict why a tourist is visiting (Visit Mode: Business, Family, Solo, etc.)
